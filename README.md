@@ -2,7 +2,12 @@
     
 Repositorio creado para el curso de **Teoría de Decisiones y Complejidad en Ciencias Sociales** en el programa de **Doctorado en Ingeniería de Sistemas Complejos** de la Universidad Adolfo Ibáñez.
 
-Profesor: - Daniel Chernilo - Aldo Mascareño - Relly Pelicier - Sergio Chaigneau 
+Profesor: 
+- Daniel Chernilo
+- Aldo Mascareño
+- Relly Pelicier
+- Sergio Chaigneau 
+
 Facultad de Ingeniería y Ciencias, UAI.
 
 **Eduardo Carrasco Vidal**
