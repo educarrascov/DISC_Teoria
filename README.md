@@ -19,6 +19,5 @@ Facultad de Ingeniería y Ciencias, UAI.
 2. [Tarea Final - Primera Sesión (pdf con análisis)](https://github.com/educarrascov/DISC_Teoria/blob/main/Sesion%20I/20231124%20Paper%20Desigualdad.pdf)
 3. [Tarea Final - Segunda Sesión](https://github.com/educarrascov/DISC_Teoria/blob/main/Sesion%20II/Tarea_2_educarrascov.ipynb)
 4. [Tarea Final - Tercera Sesión](https://github.com/educarrascov/DISC_Teoria/blob/main/Sesion%20III/Tarea3_ecarrascov.ipynb)
-5. [Tarea Final - Tercera Sesión (pdf con análisis)]()
 
  
